@@ -2,7 +2,7 @@
 
 >  <table>
 >  <tr>
->  <td align="center"><img src="./doc_img/demo1.gif" width="100%" height="auto" /></td>
+>  <td align="center"><img src="./doc_img/demo1.gif" width="50%" height="auto" /></td>
 >  </tr>
 >  </table>
 
